@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Xa Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://telegra.ph/file/6b018e375f2ab2034dcc1.jpg",  
    "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
    "addons": [
           {
@@ -31,7 +31,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "1BVtsOK0Bu5SBfX9TLjuDO-EdoR_XoW3JtlaMcovD7Kx1TC88xWHxanRGaDm5LterxE3TNiAagfWfgyk8bEUYA26ZH8NF7SeGxrunARZUCB3KIExY9HJAW_sxyN93u6IwLUT6pbFZrS9-H6HS4_V8FbSTfWYA1bQdkp44dP_Muhr95gdLzP7nUZLUcRq9m_k1QSOFhH6tNRGxLwl__8TMkzBhTNjtVOvTi5mAS1KK6Wo_FjK8dLvhBChWHsdt9Cw_m3OeNW425gMP2zjGFcDwjQ5tqjobvVeA4tHvF6bqoEqDnSww6JyuNQKnQsmdyZyo0REJFWARz9NnLz5c3f4lff7PGQJElOA="
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
